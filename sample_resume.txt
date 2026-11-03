@@ -1,0 +1,13 @@
+ALEX MORGAN
+Junior Software Developer
+Email: alex@example.com
+SUMMARY
+Junior developer interested in building practical and reliable applications.
+SKILLS
+Python, SQL, Git, Flask, HTML, CSS, Excel, communication, Linux.
+PROJECT EXPERIENCE
+Built a Flask web application using Python and SQL for a coursework project.
+Used Git for version control and collaborated with peers to improve interface quality.
+Created Python scripts to validate input and produce reports.
+EDUCATION
+Bachelor's degree in Computing.
